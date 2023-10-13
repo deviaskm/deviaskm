@@ -5,7 +5,7 @@
 
 I'm a full stack developer. Currently, I'm 20 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
 
- - 💻 My favorite programming language is JavaScript.
+ - 💻 My favorite programming language is JavaScript and Python.
  - 🚀 Currently, I am learning React, PHP and Tailwind.
 
 ## I love working with 🥰
