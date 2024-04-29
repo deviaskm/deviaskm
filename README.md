@@ -3,10 +3,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karen_Devia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-devia/)](https://www.linkedin.com/in/karen-devia/)  [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white=white&link=https://https://github.com/deviaskm/)](https://github.com/deviaskm/)
 
-I'm a full stack developer. Currently, I'm 20 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
+I'm a BI Consultant and junior full stack developer. Currently, I'm 21 years old, and I am passionate about web development and creating incredible user experiences. I am always looking for new challenges that allow me to learn and improve my skills.
 
  - 💻 My favorite programming language is JavaScript and Python.
- - 🚀 Currently, I am learning React, PHP and Tailwind.
+ - 🚀 Currently, I am learning React, R and data mining.
 
 ## I love working with 🥰
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
